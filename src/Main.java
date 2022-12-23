@@ -31,7 +31,7 @@ public class Main {
         double c1 = 2.786;
         short d1 = 569;
         short e1 = -159;
-        long f1 = 27897L;
+        int f1 = 27897;
         byte g1 = 67;
     }
     public static void task3 () {
@@ -89,7 +89,7 @@ public class Main {
     public static void task7 () {
         System.out.println("Задача 7");
         int difference = 7000;
-        int days = 0;
+        double days = 0;
         int min = 250;
         int max = 500;
         days = difference / min;
